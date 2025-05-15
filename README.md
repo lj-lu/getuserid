@@ -1,4 +1,5 @@
 INSTALLATION
+
 This document accounts for installing BlackArch Linux, a distribution of Arch Linux with a focus on penetration testing. It explains downloading the ISO, creating a bootable USB, and using
 the integrated installer to install the system. The key points are partitioning setup, selecting a desktop environment, and creating a user. It is intended to establish a
 lightweight but robust system optimized for security research. It's
